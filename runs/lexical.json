@@ -1,0 +1,171 @@
+{
+  "policy": "lexical",
+  "outputs": {
+    "Q01": {
+      "status": "answered",
+      "value": "21",
+      "sources": [
+        "S1"
+      ]
+    },
+    "Q02": {
+      "status": "answered",
+      "value": "75",
+      "sources": [
+        "S1"
+      ]
+    },
+    "Q03": {
+      "status": "answered",
+      "value": "7",
+      "sources": [
+        "S1"
+      ]
+    },
+    "Q04": {
+      "status": "answered",
+      "value": "57",
+      "sources": [
+        "S1"
+      ]
+    },
+    "Q05": {
+      "status": "answered",
+      "value": "57",
+      "sources": [
+        "S2"
+      ]
+    },
+    "Q06": {
+      "status": "answered",
+      "value": "18",
+      "sources": [
+        "S2"
+      ]
+    },
+    "Q07": {
+      "status": "answered",
+      "value": "6",
+      "sources": [
+        "S1"
+      ]
+    },
+    "Q08": {
+      "status": "answered",
+      "value": "18",
+      "sources": [
+        "S1"
+      ]
+    },
+    "Q09": {
+      "status": "answered",
+      "value": "4",
+      "sources": [
+        "S2"
+      ]
+    },
+    "Q10": {
+      "status": "answered",
+      "value": "Elm Fund",
+      "sources": [
+        "S1"
+      ]
+    },
+    "Q11": {
+      "status": "answered",
+      "value": "2023",
+      "sources": [
+        "S1"
+      ]
+    },
+    "Q12": {
+      "status": "answered",
+      "value": "12",
+      "sources": [
+        "S2"
+      ]
+    },
+    "Q13": {
+      "status": "answered",
+      "value": "India",
+      "sources": [
+        "S1"
+      ]
+    },
+    "Q14": {
+      "status": "answered",
+      "value": "9",
+      "sources": [
+        "S1"
+      ]
+    },
+    "Q15": {
+      "status": "answered",
+      "value": "Ash Fund",
+      "sources": [
+        "S1"
+      ]
+    },
+    "Q16": {
+      "status": "answered",
+      "value": "28",
+      "sources": [
+        "S1"
+      ]
+    },
+    "Q17": {
+      "status": "answered",
+      "value": "21",
+      "sources": [
+        "S1"
+      ]
+    },
+    "Q18": {
+      "status": "answered",
+      "value": "2024",
+      "sources": [
+        "S1"
+      ]
+    },
+    "Q19": {
+      "status": "answered",
+      "value": "India",
+      "sources": [
+        "S2"
+      ]
+    },
+    "Q20": {
+      "status": "answered",
+      "value": "2024",
+      "sources": [
+        "S1"
+      ]
+    },
+    "Q21": {
+      "status": "answered",
+      "value": "Ash Fund",
+      "sources": [
+        "S1"
+      ]
+    },
+    "Q22": {
+      "status": "answered",
+      "value": "7",
+      "sources": [
+        "S1"
+      ]
+    },
+    "Q23": {
+      "status": "insufficient_evidence",
+      "value": null,
+      "sources": []
+    },
+    "Q24": {
+      "status": "answered",
+      "value": "9",
+      "sources": [
+        "S1"
+      ]
+    }
+  }
+}

@@ -1,0 +1,218 @@
+[
+  {
+    "company": "Pipal Lens",
+    "question": "What is the number of full-time employees on 1 June for Pipal Lens?",
+    "sources": {
+      "S1": "On 1 June it had 21 external contractors.",
+      "S2": "It publishes an internal design newsletter."
+    },
+    "id": "Q01"
+  },
+  {
+    "company": "Tamarind Grid",
+    "question": "What is the FY25 revenue in INR lakh for Tamarind Grid?",
+    "sources": {
+      "S1": "FY25 recognized revenue was INR 75 lakh.",
+      "S2": "FY25 gross bookings reached INR 57 lakh."
+    },
+    "id": "Q02"
+  },
+  {
+    "company": "Nila Robotics",
+    "question": "What is the seed round size in INR crore for Nila Robotics?",
+    "sources": {
+      "S1": "Its post-money valuation was INR 7 crore.",
+      "S2": "Its prototypes are assembled in Pune."
+    },
+    "id": "Q03"
+  },
+  {
+    "company": "Tamarind Grid",
+    "question": "What is the FY25 revenue in INR lakh for Tamarind Grid?",
+    "sources": {
+      "S1": "FY25 recognized revenue was INR 57 lakh.",
+      "S2": "FY25 recognized revenue was INR 75 lakh."
+    },
+    "id": "Q04"
+  },
+  {
+    "company": "Tamarind Grid",
+    "question": "What is the FY25 revenue in INR lakh for Tamarind Grid?",
+    "sources": {
+      "S1": "It provides energy monitoring software to factories.",
+      "S2": "FY25 gross bookings reached INR 57 lakh."
+    },
+    "id": "Q05"
+  },
+  {
+    "company": "Mica Ferry",
+    "question": "What is the number of paying clinics on 31 March for Mica Ferry?",
+    "sources": {
+      "S1": "On 31 March, 28 clinics had signed up for free trials.",
+      "S2": "On 31 March it served 18 paying clinics."
+    },
+    "id": "Q06"
+  },
+  {
+    "company": "Indigo Loom",
+    "question": "What is the number of active warehouses on 30 April for Indigo Loom?",
+    "sources": {
+      "S1": "On 30 April it operated six warehouses.",
+      "S2": "On 30 April it had nine warehouses under construction."
+    },
+    "id": "Q07"
+  },
+  {
+    "company": "Mica Ferry",
+    "question": "What is the number of paying clinics on 31 March for Mica Ferry?",
+    "sources": {
+      "S1": "On 31 March it served 18 paying clinics.",
+      "S2": "On 31 March it served 28 paying clinics."
+    },
+    "id": "Q08"
+  },
+  {
+    "company": "Nila Robotics",
+    "question": "What is the seed round size in INR crore for Nila Robotics?",
+    "sources": {
+      "S1": "Its post-money valuation was INR 7 crore.",
+      "S2": "Its seed round closed at INR 4 crore."
+    },
+    "id": "Q09"
+  },
+  {
+    "company": "Reed Orbit",
+    "question": "What is the name of the lead seed investor for Reed Orbit?",
+    "sources": {
+      "S1": "Elm Fund led the seed round.",
+      "S2": "Ash Fund participated in the seed round."
+    },
+    "id": "Q10"
+  },
+  {
+    "company": "Gulmohar Labs",
+    "question": "What is the commercial launch year for Gulmohar Labs?",
+    "sources": {
+      "S1": "Its private beta opened in 2023.",
+      "S2": "It offers a product tour on its website."
+    },
+    "id": "Q11"
+  },
+  {
+    "company": "Pipal Lens",
+    "question": "What is the number of full-time employees on 1 June for Pipal Lens?",
+    "sources": {
+      "S1": "On 1 June it had 21 external contractors.",
+      "S2": "Its 1 June payroll lists 12 full-time employees."
+    },
+    "id": "Q12"
+  },
+  {
+    "company": "Cobalt Kite",
+    "question": "What is the country of incorporation for Cobalt Kite?",
+    "sources": {
+      "S1": "Its certificate records incorporation in India.",
+      "S2": "Its certificate records incorporation in Nepal."
+    },
+    "id": "Q13"
+  },
+  {
+    "company": "Indigo Loom",
+    "question": "What is the number of active warehouses on 30 April for Indigo Loom?",
+    "sources": {
+      "S1": "On 30 April it had nine warehouses under construction.",
+      "S2": "It uses a third-party courier for last-mile deliveries."
+    },
+    "id": "Q14"
+  },
+  {
+    "company": "Reed Orbit",
+    "question": "What is the name of the lead seed investor for Reed Orbit?",
+    "sources": {
+      "S1": "Ash Fund participated in the seed round.",
+      "S2": "It builds telemetry software for satellites."
+    },
+    "id": "Q15"
+  },
+  {
+    "company": "Mica Ferry",
+    "question": "What is the number of paying clinics on 31 March for Mica Ferry?",
+    "sources": {
+      "S1": "On 31 March, 28 clinics had signed up for free trials.",
+      "S2": "The team demonstrated its booking interface at a trade show."
+    },
+    "id": "Q16"
+  },
+  {
+    "company": "Pipal Lens",
+    "question": "What is the number of full-time employees on 1 June for Pipal Lens?",
+    "sources": {
+      "S1": "Its 1 June payroll lists 21 full-time employees.",
+      "S2": "Its 1 June payroll lists 12 full-time employees."
+    },
+    "id": "Q17"
+  },
+  {
+    "company": "Gulmohar Labs",
+    "question": "What is the commercial launch year for Gulmohar Labs?",
+    "sources": {
+      "S1": "Its first commercial launch took place in 2024.",
+      "S2": "Its private beta opened in 2023."
+    },
+    "id": "Q18"
+  },
+  {
+    "company": "Cobalt Kite",
+    "question": "What is the country of incorporation for Cobalt Kite?",
+    "sources": {
+      "S1": "Its first international office opened in Nepal.",
+      "S2": "Its certificate records incorporation in India."
+    },
+    "id": "Q19"
+  },
+  {
+    "company": "Gulmohar Labs",
+    "question": "What is the commercial launch year for Gulmohar Labs?",
+    "sources": {
+      "S1": "Its first commercial launch took place in 2024.",
+      "S2": "Its first commercial launch took place in 2023."
+    },
+    "id": "Q20"
+  },
+  {
+    "company": "Reed Orbit",
+    "question": "What is the name of the lead seed investor for Reed Orbit?",
+    "sources": {
+      "S1": "Ash Fund led the seed round.",
+      "S2": "Elm Fund led the seed round."
+    },
+    "id": "Q21"
+  },
+  {
+    "company": "Nila Robotics",
+    "question": "What is the seed round size in INR crore for Nila Robotics?",
+    "sources": {
+      "S1": "Its seed round closed at INR 7 crore.",
+      "S2": "Its seed round closed at INR 4 crore."
+    },
+    "id": "Q22"
+  },
+  {
+    "company": "Cobalt Kite",
+    "question": "What is the country of incorporation for Cobalt Kite?",
+    "sources": {
+      "S1": "It distributes its software through resellers.",
+      "S2": "Its first international office opened in Nepal."
+    },
+    "id": "Q23"
+  },
+  {
+    "company": "Indigo Loom",
+    "question": "What is the number of active warehouses on 30 April for Indigo Loom?",
+    "sources": {
+      "S1": "On 30 April it operated nine warehouses.",
+      "S2": "On 30 April it operated six warehouses."
+    },
+    "id": "Q24"
+  }
+]

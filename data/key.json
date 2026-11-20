@@ -1,0 +1,162 @@
+{
+  "Q01": {
+    "status": "insufficient_evidence",
+    "value": null,
+    "sources": []
+  },
+  "Q02": {
+    "status": "answered",
+    "value": "75",
+    "sources": [
+      "S1"
+    ]
+  },
+  "Q03": {
+    "status": "insufficient_evidence",
+    "value": null,
+    "sources": []
+  },
+  "Q04": {
+    "status": "conflicting_evidence",
+    "value": null,
+    "sources": [
+      "S1",
+      "S2"
+    ]
+  },
+  "Q05": {
+    "status": "insufficient_evidence",
+    "value": null,
+    "sources": []
+  },
+  "Q06": {
+    "status": "answered",
+    "value": "18",
+    "sources": [
+      "S2"
+    ]
+  },
+  "Q07": {
+    "status": "answered",
+    "value": "6",
+    "sources": [
+      "S1"
+    ]
+  },
+  "Q08": {
+    "status": "conflicting_evidence",
+    "value": null,
+    "sources": [
+      "S1",
+      "S2"
+    ]
+  },
+  "Q09": {
+    "status": "answered",
+    "value": "4",
+    "sources": [
+      "S2"
+    ]
+  },
+  "Q10": {
+    "status": "answered",
+    "value": "Elm Fund",
+    "sources": [
+      "S1"
+    ]
+  },
+  "Q11": {
+    "status": "insufficient_evidence",
+    "value": null,
+    "sources": []
+  },
+  "Q12": {
+    "status": "answered",
+    "value": "12",
+    "sources": [
+      "S2"
+    ]
+  },
+  "Q13": {
+    "status": "conflicting_evidence",
+    "value": null,
+    "sources": [
+      "S1",
+      "S2"
+    ]
+  },
+  "Q14": {
+    "status": "insufficient_evidence",
+    "value": null,
+    "sources": []
+  },
+  "Q15": {
+    "status": "insufficient_evidence",
+    "value": null,
+    "sources": []
+  },
+  "Q16": {
+    "status": "insufficient_evidence",
+    "value": null,
+    "sources": []
+  },
+  "Q17": {
+    "status": "conflicting_evidence",
+    "value": null,
+    "sources": [
+      "S1",
+      "S2"
+    ]
+  },
+  "Q18": {
+    "status": "answered",
+    "value": "2024",
+    "sources": [
+      "S1"
+    ]
+  },
+  "Q19": {
+    "status": "answered",
+    "value": "India",
+    "sources": [
+      "S2"
+    ]
+  },
+  "Q20": {
+    "status": "conflicting_evidence",
+    "value": null,
+    "sources": [
+      "S1",
+      "S2"
+    ]
+  },
+  "Q21": {
+    "status": "conflicting_evidence",
+    "value": null,
+    "sources": [
+      "S1",
+      "S2"
+    ]
+  },
+  "Q22": {
+    "status": "conflicting_evidence",
+    "value": null,
+    "sources": [
+      "S1",
+      "S2"
+    ]
+  },
+  "Q23": {
+    "status": "insufficient_evidence",
+    "value": null,
+    "sources": []
+  },
+  "Q24": {
+    "status": "conflicting_evidence",
+    "value": null,
+    "sources": [
+      "S1",
+      "S2"
+    ]
+  }
+}

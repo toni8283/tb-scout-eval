@@ -1,0 +1,205 @@
+{
+  "model": "qwen2.5-1.5b-instruct-q4_k_m",
+  "backend": "llama.cpp",
+  "runtime_version": "llama.cpp b8157 (2943210c1)",
+  "model_digest": "sha256:183715c435899236895da3869489cc30ac241476b4971a20285b1a462818a5b4",
+  "settings": {
+    "temperature": 0,
+    "seed": 42,
+    "max_tokens": 128
+  },
+  "dataset_sha256": "1cbfd3ae06c1660aac13c812d2b061d07e367910da648450c5d9f637d707b3ec",
+  "started_at": "2026-11-20T02:45:01.561273+00:00",
+  "condition": "evidence",
+  "prompt": "Use only the two equally authoritative source records. Return one JSON object with status (answered, insufficient_evidence, or conflicting_evidence), value (bare number in the requested units or a name for an answer, otherwise null), and sources (an array of supporting source IDs, empty for missing evidence). Match the exact metric, date and population. A related metric cannot establish the requested value. If both sources disagree about the exact requested fact, return conflicting_evidence with a null value and cite both sources.",
+  "raw": {
+    "Q01": "{\"status\": \"insufficient_evidence\", \"value\": null, \"sources\": []}",
+    "Q02": "{\"status\": \"answered\", \"value\": null, \"sources\": []}",
+    "Q03": "{\"status\": \"conflicting_evidence\", \"value\": null, \"sources\": []}",
+    "Q04": "{\"status\": \"conflicting_evidence\", \"value\": null, \"sources\": []}",
+    "Q05": "{\"status\": \"answered\", \"value\": null, \"sources\": []}",
+    "Q06": "{\"status\": \"answered\", \"value\": \"18\", \"sources\": [\"S2\", \"S1\"]}",
+    "Q07": "{\"status\": \"answered\", \"value\": \"6\", \"sources\": [\"S1\", \"S2\"]}",
+    "Q08": "{\"status\": \"answered\", \"value\": null, \"sources\": [\"S1\", \"S2\"]}",
+    "Q09": "{\"status\": \"answered\", \"value\": \"4\", \"sources\": [\"S1\", \"S2\"]}",
+    "Q10": "{\"status\": \"answered\", \"value\": \"Elm Fund\", \"sources\": [\"S1\", \"S2\"]}",
+    "Q11": "{\"status\": \"answered\", \"value\": \"2023\", \"sources\": [\"S1\", \"S2\"]}",
+    "Q12": "{\"status\": \"answered\", \"value\": \"12\", \"sources\": [\"S2\", \"S1\"]}",
+    "Q13": "{\"status\": \"conflicting_evidence\", \"value\": null, \"sources\": [\"S1\", \"S2\"]}",
+    "Q14": "{\"status\": \"insufficient_evidence\", \"value\": null, \"sources\": []}",
+    "Q15": "{\"status\": \"answered\", \"value\": \"Ash Fund\", \"sources\": [\"S1\", \"S2\"]}",
+    "Q16": "{\"status\": \"conflicting_evidence\", \"value\": null, \"sources\": []}",
+    "Q17": "{\"status\": \"answered\", \"value\": \"12\", \"sources\": [\"S1\", \"S2\"]}",
+    "Q18": "{\"status\": \"answered\", \"value\": \"2023\", \"sources\": [\"S2\", \"S1\"]}",
+    "Q19": "{\"status\": \"answered\", \"value\": \"India\", \"sources\": [\"S2\", \"S1\"]}",
+    "Q20": "{\"status\": \"answered\", \"value\": \"2023\", \"sources\": [\"S1\", \"S2\"]}",
+    "Q21": "{\"status\": \"conflicting_evidence\", \"value\": null, \"sources\": []}",
+    "Q22": "{\"status\": \"conflicting_evidence\", \"value\": null, \"sources\": [\"S1\", \"S2\"]}",
+    "Q23": "{\"status\": \"conflicting_evidence\", \"value\": null, \"sources\": []}",
+    "Q24": "{\"status\": \"conflicting_evidence\", \"value\": null, \"sources\": []}"
+  },
+  "outputs": {
+    "Q01": {
+      "status": "insufficient_evidence",
+      "value": null,
+      "sources": []
+    },
+    "Q02": {
+      "status": "answered",
+      "value": null,
+      "sources": []
+    },
+    "Q03": {
+      "status": "conflicting_evidence",
+      "value": null,
+      "sources": []
+    },
+    "Q04": {
+      "status": "conflicting_evidence",
+      "value": null,
+      "sources": []
+    },
+    "Q05": {
+      "status": "answered",
+      "value": null,
+      "sources": []
+    },
+    "Q06": {
+      "status": "answered",
+      "value": "18",
+      "sources": [
+        "S2",
+        "S1"
+      ]
+    },
+    "Q07": {
+      "status": "answered",
+      "value": "6",
+      "sources": [
+        "S1",
+        "S2"
+      ]
+    },
+    "Q08": {
+      "status": "answered",
+      "value": null,
+      "sources": [
+        "S1",
+        "S2"
+      ]
+    },
+    "Q09": {
+      "status": "answered",
+      "value": "4",
+      "sources": [
+        "S1",
+        "S2"
+      ]
+    },
+    "Q10": {
+      "status": "answered",
+      "value": "Elm Fund",
+      "sources": [
+        "S1",
+        "S2"
+      ]
+    },
+    "Q11": {
+      "status": "answered",
+      "value": "2023",
+      "sources": [
+        "S1",
+        "S2"
+      ]
+    },
+    "Q12": {
+      "status": "answered",
+      "value": "12",
+      "sources": [
+        "S2",
+        "S1"
+      ]
+    },
+    "Q13": {
+      "status": "conflicting_evidence",
+      "value": null,
+      "sources": [
+        "S1",
+        "S2"
+      ]
+    },
+    "Q14": {
+      "status": "insufficient_evidence",
+      "value": null,
+      "sources": []
+    },
+    "Q15": {
+      "status": "answered",
+      "value": "Ash Fund",
+      "sources": [
+        "S1",
+        "S2"
+      ]
+    },
+    "Q16": {
+      "status": "conflicting_evidence",
+      "value": null,
+      "sources": []
+    },
+    "Q17": {
+      "status": "answered",
+      "value": "12",
+      "sources": [
+        "S1",
+        "S2"
+      ]
+    },
+    "Q18": {
+      "status": "answered",
+      "value": "2023",
+      "sources": [
+        "S2",
+        "S1"
+      ]
+    },
+    "Q19": {
+      "status": "answered",
+      "value": "India",
+      "sources": [
+        "S2",
+        "S1"
+      ]
+    },
+    "Q20": {
+      "status": "answered",
+      "value": "2023",
+      "sources": [
+        "S1",
+        "S2"
+      ]
+    },
+    "Q21": {
+      "status": "conflicting_evidence",
+      "value": null,
+      "sources": []
+    },
+    "Q22": {
+      "status": "conflicting_evidence",
+      "value": null,
+      "sources": [
+        "S1",
+        "S2"
+      ]
+    },
+    "Q23": {
+      "status": "conflicting_evidence",
+      "value": null,
+      "sources": []
+    },
+    "Q24": {
+      "status": "conflicting_evidence",
+      "value": null,
+      "sources": []
+    }
+  }
+}

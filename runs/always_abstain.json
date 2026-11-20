@@ -1,0 +1,125 @@
+{
+  "policy": "always_abstain",
+  "outputs": {
+    "Q01": {
+      "status": "insufficient_evidence",
+      "value": null,
+      "sources": []
+    },
+    "Q02": {
+      "status": "insufficient_evidence",
+      "value": null,
+      "sources": []
+    },
+    "Q03": {
+      "status": "insufficient_evidence",
+      "value": null,
+      "sources": []
+    },
+    "Q04": {
+      "status": "insufficient_evidence",
+      "value": null,
+      "sources": []
+    },
+    "Q05": {
+      "status": "insufficient_evidence",
+      "value": null,
+      "sources": []
+    },
+    "Q06": {
+      "status": "insufficient_evidence",
+      "value": null,
+      "sources": []
+    },
+    "Q07": {
+      "status": "insufficient_evidence",
+      "value": null,
+      "sources": []
+    },
+    "Q08": {
+      "status": "insufficient_evidence",
+      "value": null,
+      "sources": []
+    },
+    "Q09": {
+      "status": "insufficient_evidence",
+      "value": null,
+      "sources": []
+    },
+    "Q10": {
+      "status": "insufficient_evidence",
+      "value": null,
+      "sources": []
+    },
+    "Q11": {
+      "status": "insufficient_evidence",
+      "value": null,
+      "sources": []
+    },
+    "Q12": {
+      "status": "insufficient_evidence",
+      "value": null,
+      "sources": []
+    },
+    "Q13": {
+      "status": "insufficient_evidence",
+      "value": null,
+      "sources": []
+    },
+    "Q14": {
+      "status": "insufficient_evidence",
+      "value": null,
+      "sources": []
+    },
+    "Q15": {
+      "status": "insufficient_evidence",
+      "value": null,
+      "sources": []
+    },
+    "Q16": {
+      "status": "insufficient_evidence",
+      "value": null,
+      "sources": []
+    },
+    "Q17": {
+      "status": "insufficient_evidence",
+      "value": null,
+      "sources": []
+    },
+    "Q18": {
+      "status": "insufficient_evidence",
+      "value": null,
+      "sources": []
+    },
+    "Q19": {
+      "status": "insufficient_evidence",
+      "value": null,
+      "sources": []
+    },
+    "Q20": {
+      "status": "insufficient_evidence",
+      "value": null,
+      "sources": []
+    },
+    "Q21": {
+      "status": "insufficient_evidence",
+      "value": null,
+      "sources": []
+    },
+    "Q22": {
+      "status": "insufficient_evidence",
+      "value": null,
+      "sources": []
+    },
+    "Q23": {
+      "status": "insufficient_evidence",
+      "value": null,
+      "sources": []
+    },
+    "Q24": {
+      "status": "insufficient_evidence",
+      "value": null,
+      "sources": []
+    }
+  }
+}
